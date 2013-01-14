@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[DotSlasch]]></title>
-  <link href="http://DotSlasch.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Allgemein, | DotSlasch]]></title>
+  <link href="http://DotSlasch.github.com/blog/categories/allgemein-/atom.xml" rel="self"/>
   <link href="http://DotSlasch.github.com/"/>
   <updated>2013-01-14T21:14:16+01:00</updated>
   <id>http://DotSlasch.github.com/</id>
@@ -26,28 +26,6 @@ was sich gut anhört. Weil Musik muss sich gut anhören. Und ich muss mir
 dass lied auch sehr sehr oft hintereinander anhören können (Genauso ist
 das bei mir mit den Filmen). Meistens kaufe ich Musik bei Itunes oder sie
 ist halt bei den Humble Bundles dabei. So dass wars erstmal von mir.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Der Start]]></title>
-    <link href="http://DotSlasch.github.com/blog/2013/01/14/der-start/"/>
-    <updated>2013-01-14T11:19:00+01:00</updated>
-    <id>http://DotSlasch.github.com/blog/2013/01/14/der-start</id>
-    <content type="html"><![CDATA[<p>Willkommen auf meinem neuen Blog. Ich nutze nun Octopress
-als Blogging Plattform da ich es schon länger wollte.
-Früher hat es aufgrund einiger Fehler nicht geklappt doch
-Heute hat es endlich geklappt.Und hier ist der neue Blog.
-Ich werde ihn mir jetzt nach und nach einrichten. Eins der
-vielen Vorteile von Octopress ist dass es Statisch ist dass
-heist das ich es auch Offline nutzen kann. So kann ich zum
-Beispiel neuerungen endwickeln ohne den Blog offline zu nehmen
-oder auch Schreiben wenn ich grade an einem Ort bin wo ich kein
-Internet habe. Ich hoffe der neue Blog gefällt euch. Viel Spaß
-beim Lesen.
-PS : Ich werd nachher noch meine Domain auf diese Github Seite
-umleiten. Ich nutze Github da es leichter ist die Posts so zu
-veröffendlichen.</p>
 ]]></content>
   </entry>
   
